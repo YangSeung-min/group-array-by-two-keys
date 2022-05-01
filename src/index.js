@@ -34,6 +34,7 @@ Object.keys(result).map((item) => {
 
 document.getElementById("app").innerHTML = `
 <h1>group array by two keys</h1>
+<h2>test</h2>
 <h2>data</h2>
 <pre>
 data = [
